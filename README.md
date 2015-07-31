@@ -1,5 +1,7 @@
 # Snowball_thresh
 
+[[https://github.com/Guanghan/Snowball-Thresh/blob/master/ScreenClip.png]]
+
 ## Getting Started
 
 ### 1. What is Snowball?
