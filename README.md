@@ -1,6 +1,6 @@
 # Snowball_thresh
 
-[[https://github.com/Guanghan/Snowball-Thresh/blob/master/ScreenClip.png]]
+![Alt Text](https://github.com/Guanghan/Snowball-Thresh/blob/master/ScreenClip.png)
 
 ## Getting Started
 
