@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+
+  "name": "Snowball price change",
+  "description": "This extension notifies stock price changes.",
+  "version": "0.5",
+  "author": "Ning, Guanghan",
+
+  "icons": {
+      "16": "icons/16.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
+   },
+
+  "background":
+  {
+    "persistent": false,
+    "scripts":["jquery-1.8.3.min.js", "crawl.js"]
+  },
+
+  "permissions": [
+    "activeTab",
+    "management"
+    "notifications",
+    "alarms",
+    "storage",
+    "cookies",
+    "https://ajax.googleapis.com/",
+    "http://xueqiu.com/"
+  ],
+   
+   "options_ui": {
+     "page": "options.html",
+     "chrome_style": true
+   }
+}
